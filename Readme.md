@@ -1,3 +1,3 @@
 # Main Header
 
-Some explanations here
+Some explanations here.
